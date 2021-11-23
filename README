@@ -1,0 +1,4 @@
+1. Get BLKLOOPINIT Error: make
+2. Resolve the Error with two methods:
+	a) make UNROLL=1
+	b) make MOD_RTL=1
